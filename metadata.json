@@ -1,0 +1,6 @@
+{
+  "name": "IT Envanter ve Zimmet Yönetim Sistemi",
+  "description": "Şirket lokasyonları, kullanıcılar, ağ ürünleri, PtP radyolinkler, IP telefonlar ve depo zimmet takip sistemi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
